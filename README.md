@@ -33,9 +33,10 @@ Regional differences in purchase behavior indicated specific areas for targeted 
 Gender and marital status were significant factors influencing bike ownership trends.
 # How to Use
 Clone the repository:
-bash
+``` bash
 Copy code
-git clone <repository-link>  
+git clone <repository-link>
+```  
 Open the Excel file to explore the data, pivot tables, and dashboards.
 # Conclusion
 This project demonstrates the application of Excel for effective data analysis and visualization, enabling data-driven insights for decision-making.
